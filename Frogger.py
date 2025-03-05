@@ -67,3 +67,4 @@ while not game_over:
 quit()
 
 # end of week 1 coding
+# ISSUES WITH ADDING MUSIC AND SOUND FIX
