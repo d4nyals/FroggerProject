@@ -1,5 +1,4 @@
 # FroggerProject
 frogger project, crossy road from eBay type game
 
-
-Week 1 = 
+finish by 8/4/25
